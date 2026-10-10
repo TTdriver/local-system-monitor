@@ -28,3 +28,9 @@ python3 -m unittest test_update_check
 ## Sensors
 
 CPU and RAM use psutil. NVIDIA GPU information uses `nvidia-smi` when available. No administrator privileges are required.
+
+## Give Thanks
+
+If you’d like to say thanks by buying me a drink or helping cover AI tokens, it’s appreciated.
+
+[Give Thanks](https://thanks.kerchnerlabs.com)
